@@ -1,1 +1,1 @@
-# kanding-page
+# landing-page
